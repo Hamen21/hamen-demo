@@ -1,10 +1,10 @@
 # hamen-demo
 it is my first repository
 <br>
-to push the code to git hub
+1. To push the code to git hub
 <br>
-git push origin main
+ git push origin main
 <br>
-to modify
+2. To modify
 <br>
-git add .<br> to cheack status use <br> git status <br> to commit <br> git commit -m "mention changes"
+git add .<br> 3. To cheack status use <br> git status <br>4. To commit changes <br> git commit -m "message"
